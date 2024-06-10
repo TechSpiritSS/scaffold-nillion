@@ -30,9 +30,8 @@ def nada_main():
     # For more complex scenarios, additional operations or transformations can be added
 
     # Return the computed Simple Interest (SI) as the output for Party1
-    return [
-        Output(si, "simple_interest", party1)
-    ]
+    return [Output(si, "simple_interest", party1)]
+
 
 # Note: This code defines the structure and computation for the Nada program.
 # It doesn't execute the program itself; execution would occur within the Nillion Network environment.
