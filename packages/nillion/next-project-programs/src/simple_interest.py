@@ -2,6 +2,7 @@ from nada_dsl import *
 
 
 def nada_main():
+    """ """
     # Define the parties involved in the computation
     party1 = Party(name="Party1")  # Party1 provides the principal amount
     party2 = Party(name="Party2")  # Party2 provides the rate of interest
